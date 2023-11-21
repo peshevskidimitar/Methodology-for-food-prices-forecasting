@@ -1,0 +1,1 @@
+{'SMA Butter Price': 210.0, 'WMA Butter Price': 52.0, 'EMA Butter Price': 581.0, 'Butter Price (1 month before)': 60.0, 'Butter Price (2 month before)': 158.0, 'Butter Price (3 month before)': 231.0}

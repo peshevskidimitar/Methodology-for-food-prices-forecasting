@@ -1,0 +1,3 @@
+R^2 score: 0.7135521060298711
+Mean squared error: 0.05961758158446278
+Mean absolute error: 0.19214321887563066

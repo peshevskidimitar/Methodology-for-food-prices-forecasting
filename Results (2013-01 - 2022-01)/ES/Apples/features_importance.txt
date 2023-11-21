@@ -1,0 +1,1 @@
+{'SMA Apples Price': 73.0, 'WMA Apples Price': 19.0, 'EMA Apples Price': 210.0, 'Apples Price (1 month before)': 43.0, 'Apples Price (2 month before)': 44.0, 'Apples Price (3 month before)': 32.0}

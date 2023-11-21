@@ -1,0 +1,1 @@
+{'SMA Milk Price': 2.0, 'EMA Milk Price': 95.0, 'Milk Price (1 month before)': 3.0}

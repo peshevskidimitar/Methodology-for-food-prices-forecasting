@@ -1,0 +1,1 @@
+{'SMA Chicken Price': 181.0, 'WMA Chicken Price': 45.0, 'EMA Chicken Price': 339.0, 'Chicken Price (1 month before)': 33.0, 'Chicken Price (2 month before)': 78.0, 'Chicken Price (3 month before)': 52.0}

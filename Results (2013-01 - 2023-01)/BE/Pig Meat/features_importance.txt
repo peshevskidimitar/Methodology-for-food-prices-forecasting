@@ -1,0 +1,1 @@
+{'SMA Pig Meat Price': 108.0, 'WMA Pig Meat Price': 76.0, 'EMA Pig Meat Price': 343.0, 'Pig Meat Price (1 month before)': 18.0, 'Pig Meat Price (2 month before)': 50.0, 'Pig Meat Price (3 month before)': 96.0}

@@ -1,0 +1,1 @@
+{'SMA Eggs Price': 249.0, 'WMA Eggs Price': 83.0, 'EMA Eggs Price': 351.0, 'Eggs Price (1 month before)': 34.0, 'Eggs Price (2 month before)': 40.0, 'Eggs Price (3 month before)': 83.0}

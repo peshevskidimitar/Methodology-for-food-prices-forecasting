@@ -1,0 +1,1 @@
+{'SMA Lemons Price': 198.0, 'WMA Lemons Price': 59.0, 'EMA Lemons Price': 398.0, 'Lemons Price (1 month before)': 71.0, 'Lemons Price (2 month before)': 84.0, 'Lemons Price (3 month before)': 110.0}

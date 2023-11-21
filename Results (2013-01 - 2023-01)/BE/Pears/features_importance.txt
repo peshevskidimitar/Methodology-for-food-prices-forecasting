@@ -1,0 +1,1 @@
+{'SMA Pears Price': 151.0, 'WMA Pears Price': 78.0, 'EMA Pears Price': 368.0, 'Pears Price (1 month before)': 104.0, 'Pears Price (2 month before)': 54.0, 'Pears Price (3 month before)': 81.0}

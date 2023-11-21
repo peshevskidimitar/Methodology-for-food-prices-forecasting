@@ -1,0 +1,1 @@
+{'SMA Milk Price': 27.0, 'WMA Milk Price': 1.0, 'EMA Milk Price': 170.0, 'Milk Price (1 month before)': 19.0, 'Milk Price (2 month before)': 11.0, 'Milk Price (3 month before)': 42.0}

@@ -1,0 +1,1 @@
+{'SMA Tomatoes Price': 215.0, 'WMA Tomatoes Price': 79.0, 'EMA Tomatoes Price': 420.0, 'Tomatoes Price (1 month before)': 108.0, 'Tomatoes Price (2 month before)': 139.0, 'Tomatoes Price (3 month before)': 101.0}

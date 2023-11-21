@@ -1,0 +1,1 @@
+{'SMA Olive Oil Price': 284.0, 'WMA Olive Oil Price': 39.0, 'EMA Olive Oil Price': 375.0, 'Olive Oil Price (1 month before)': 51.0, 'Olive Oil Price (2 month before)': 58.0, 'Olive Oil Price (3 month before)': 77.0}

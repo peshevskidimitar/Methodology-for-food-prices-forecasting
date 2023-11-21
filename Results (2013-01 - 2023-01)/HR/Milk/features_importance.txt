@@ -1,0 +1,1 @@
+{'EMA Milk Price': 111.0, 'Milk Price (1 month before)': 7.0, 'Milk Price (2 month before)': 1.0, 'Milk Price (3 month before)': 8.0}

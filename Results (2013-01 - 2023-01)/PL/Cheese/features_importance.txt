@@ -1,0 +1,1 @@
+{'SMA Cheese Price': 250.0, 'WMA Cheese Price': 31.0, 'EMA Cheese Price': 442.0, 'Cheese Price (1 month before)': 79.0, 'Cheese Price (2 month before)': 31.0, 'Cheese Price (3 month before)': 191.0}
